@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>mob.gif</ImageUrl>
+    <NavigateUrl>http://192.168.3.123/mobank/main.aspx</NavigateUrl>
+    <AlternateText>mobile banking</AlternateText>
+    <Keyword>A</Keyword>
+    <Impressions>50</Impressions>
+    <Caption>This is the caption for Ad#1</Caption>
+  </Ad>
+
+  <!--<Ad>
+    <ImageUrl>carl.jpg</ImageUrl>
+    <NavigateUrl>http://192.168.3.123/mobank/loan.aspx</NavigateUrl>
+    <AlternateText>car loan</AlternateText>
+    <Keyword>S</Keyword>
+    <Impressions>50</Impressions>
+    <Caption>This is the caption for Ad#2</Caption>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>edul.jpg</ImageUrl>
+    <NavigateUrl>      http://192.168.3.123/mobank/loan.aspx   </NavigateUrl>
+    <AlternateText>education loan loan</AlternateText>
+    <Keyword>S</Keyword>
+    <Impressions>50</Impressions>
+    <Caption>This is the caption for Ad#2</Caption>
+
+  </Ad>-->
+</Advertisements>
